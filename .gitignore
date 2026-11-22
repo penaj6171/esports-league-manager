@@ -1,0 +1,11 @@
+# compilados de Eclipse
+bin/
+*.class
+
+# base de datos local (cada uno genera la suya al ejecutar)
+torneo.db
+
+# archivos del sistema
+.metadata/
+Thumbs.db
+.DS_Store
